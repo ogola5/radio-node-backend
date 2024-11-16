@@ -1,0 +1,80 @@
+{
+    "live_reports": [
+      {
+        "id": "001",
+        "journalist": "Alice Kamau",
+        "timestamp": "2024-11-09T08:30:00Z",
+        "location": "Nairobi, Kenya",
+        "category": "Politics",
+        "headline": "Kenya’s Parliament Engages in Heated Debate Over New Tax Reform",
+        "summary": "Members of the Kenyan Parliament are locked in an intense discussion about a proposed tax reform aimed at increasing revenue for public projects. While some argue it will burden the lower-income population, others insist it’s crucial for economic growth.",
+        "source": "DailyNation",
+        "media": {
+          "video_url": "https://example.com/videos/kenya_parliament_debate.mp4",
+          "audio_url": "https://example.com/audio/kenya_tax_reform_summary.mp3",
+          "thumbnail_url": "https://example.com/thumbnails/kenya_parliament_thumbnail.jpg"
+        }
+      },
+      {
+        "id": "002",
+        "journalist": "James Mungai",
+        "timestamp": "2024-11-09T09:15:00Z",
+        "location": "Mombasa, Kenya",
+        "category": "Weather",
+        "headline": "Heavy Rain Causes Flooding in Coastal Areas of Kenya",
+        "summary": "Unusually heavy rains have led to flash floods in parts of Mombasa, disrupting transportation and displacing residents. Authorities are urging caution and evacuation from low-lying areas.",
+        "source": "KTN News",
+        "media": {
+          "video_url": "https://example.com/videos/mombasa_floods.mp4",
+          "audio_url": "https://example.com/audio/flooding_updates_mombasa.mp3",
+          "thumbnail_url": "https://example.com/thumbnails/mombasa_floods_thumbnail.jpg"
+        }
+      },
+      {
+        "id": "003",
+        "journalist": "Grace Njeri",
+        "timestamp": "2024-11-09T10:45:00Z",
+        "location": "Kampala, Uganda",
+        "category": "Health",
+        "headline": "Rising Malaria Cases in Uganda Amid Ongoing Rainy Season",
+        "summary": "Health officials in Uganda report an increase in malaria cases, attributing it to stagnant water from recent rains. Community health programs are intensifying prevention efforts in affected areas.",
+        "source": "Monitor Uganda",
+        "media": {
+          "video_url": "https://example.com/videos/uganda_malaria_cases.mp4",
+          "audio_url": "https://example.com/audio/uganda_health_update.mp3",
+          "thumbnail_url": "https://example.com/thumbnails/uganda_malaria_thumbnail.jpg"
+        }
+      },
+      {
+        "id": "004",
+        "journalist": "Robert Ogutu",
+        "timestamp": "2024-11-09T11:30:00Z",
+        "location": "Dar es Salaam, Tanzania",
+        "category": "Economy",
+        "headline": "Tanzania’s New Trade Deal Sparks Optimism for Economic Growth",
+        "summary": "The government of Tanzania signed a trade agreement with the European Union, expected to boost exports and job creation. Officials express hope that this will lead to a stronger economy in the region.",
+        "source": "Citizen Tanzania",
+        "media": {
+          "video_url": "https://example.com/videos/tanzania_trade_deal.mp4",
+          "audio_url": "https://example.com/audio/tanzania_trade_update.mp3",
+          "thumbnail_url": "https://example.com/thumbnails/tanzania_trade_thumbnail.jpg"
+        }
+      },
+      {
+        "id": "005",
+        "journalist": "Linda Asimwe",
+        "timestamp": "2024-11-09T13:00:00Z",
+        "location": "Rwanda",
+        "category": "Tech",
+        "headline": "Rwanda Hosts Innovation Summit Highlighting Tech Growth in East Africa",
+        "summary": "Rwanda’s capital, Kigali, is hosting a tech innovation summit that brings together tech leaders, innovators, and investors from across Africa to discuss advancements and challenges in technology.",
+        "source": "The New Times Rwanda",
+        "media": {
+          "video_url": "https://example.com/videos/rwanda_tech_summit.mp4",
+          "audio_url": "https://example.com/audio/rwanda_tech_summary.mp3",
+          "thumbnail_url": "https://example.com/thumbnails/rwanda_tech_thumbnail.jpg"
+        }
+      }
+    ]
+  }
+  

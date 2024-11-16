@@ -1,0 +1,66 @@
+node_modules
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE and editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Debugging files
+debug/
+
+# Docker files
+docker-compose.override.yml
+.dockerignore
+
+# Package locks (optional: depends on your team's practices)
+package-lock.json
+yarn.lock
+
+# Optional npm cache directory
+.npm/
+
+# Lint and formatters
+.eslintcache
+.prettiercache
+
+# Optional project-specific exclusions

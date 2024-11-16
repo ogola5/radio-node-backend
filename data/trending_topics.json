@@ -1,0 +1,129 @@
+{
+    "trending_topics": [
+      {
+        "id": "1",
+        "topic": "#ClimateAction",
+        "summary": "Discussions and initiatives to combat climate change gain traction worldwide as leaders gather for climate summits.",
+        "tweet_volume": 120000
+      },
+      {
+        "id": "2",
+        "topic": "#SpaceXLaunch",
+        "summary": "SpaceX successfully launches another rocket, pushing forward on its mission to make space travel accessible and safe.",
+        "tweet_volume": 95000
+      },
+      {
+        "id": "3",
+        "topic": "#ArtificialIntelligence",
+        "summary": "AI advancements spark debates on ethical implications and the potential impacts on the job market.",
+        "tweet_volume": 85000
+      },
+      {
+        "id": "4",
+        "topic": "#WorldCup2024",
+        "summary": "Excitement builds as teams prepare for the upcoming World Cup, with fans speculating about the favorites.",
+        "tweet_volume": 200000
+      },
+      {
+        "id": "5",
+        "topic": "#NewMusicFriday",
+        "summary": "Artists release new tracks as part of 'New Music Friday,' with fans sharing their favorite songs and reactions.",
+        "tweet_volume": 75000
+      },
+      {
+        "id": "6",
+        "topic": "#MentalHealthAwareness",
+        "summary": "Ongoing conversations highlight the importance of mental health, with people sharing personal stories and resources.",
+        "tweet_volume": 65000
+      },
+      {
+        "id": "7",
+        "topic": "#TechSummit2024",
+        "summary": "The annual tech summit kicks off, showcasing innovations in AI, cybersecurity, and green technology.",
+        "tweet_volume": 58000
+      },
+      {
+        "id": "8",
+        "topic": "#NBAFinals",
+        "summary": "The NBA Finals approach, with fans rooting for their favorite teams and debating likely MVPs.",
+        "tweet_volume": 160000
+      },
+      {
+        "id": "9",
+        "topic": "#RecipeOfTheDay",
+        "summary": "Food enthusiasts share creative recipes, with a trending focus on autumn-inspired dishes.",
+        "tweet_volume": 48000
+      },
+      {
+        "id": "10",
+        "topic": "#BlackFridayDeals",
+        "summary": "Early Black Friday deals start rolling out, with shoppers sharing tips on the best discounts and finds.",
+        "tweet_volume": 130000
+      }
+    ],
+  "Other Topics": {
+
+  
+    "Kenya": [
+      {
+        "trend": "#FreeAoko",
+        "summary": "Social media users in Kenya rallied under #FreeAoko, discussing issues of freedom of speech and legal challenges involving the activist Aoko Midiambo.",
+        "tweets": "High engagement across Nairobi and other major cities"
+      },
+      {
+        "trend": "#MainaAndKingangi",
+        "summary": "Popular radio hosts Maina and King’ang’i sparked conversations with their morning show topics, which touched on relationships and social issues.",
+        "tweets": "Popular throughout the week"
+      },
+      {
+        "trend": "#SafaricomAt24",
+        "summary": "Celebrations for Safaricom’s 24th anniversary included discussions on telecom advances, customer service, and future growth in Kenya’s largest telecom company.",
+        "tweets": "Widely discussed in tech and business circles"
+      },
+      {
+        "trend": "#OccupyStanChart",
+        "summary": "Protests around Standard Chartered Bank's operations in Kenya, focusing on financial policies and customer service.",
+        "tweets": "Mostly in Nairobi, with support from other cities"
+      }
+    ],
+    "EastAfrica": {
+      "Tanzania": [
+        {
+          "trend": "#TanzaniaDecides",
+          "summary": "Conversations centered around the political landscape and recent elections, with discussions on democracy and governance."
+        }
+      ],
+      "Uganda": [
+        {
+          "trend": "#Museveni",
+          "summary": "Social media users shared insights and criticisms regarding President Museveni’s policies and recent statements on Ugandan sovereignty."
+        }
+      ],
+      "Rwanda": [
+        {
+          "trend": "#RwandaDevelopment",
+          "summary": "Discussions on Rwanda's economic initiatives, including infrastructure projects and Rwanda’s innovation ecosystem."
+        }
+      ]
+    },
+    "World": [
+      {
+        "trend": "#IsraelHamasConflict",
+        "summary": "Global users shared opinions, news, and humanitarian appeals related to the ongoing conflict between Israel and Hamas.",
+        "tweets": "Millions of interactions worldwide"
+      },
+      {
+        "trend": "#ClimateChangeSummit",
+        "summary": "World leaders gathered to discuss climate action, drawing extensive commentary on environmental commitments and policies."
+      },
+      {
+        "trend": "#AppleEvent",
+        "summary": "Apple's latest product launches sparked global interest, with fans discussing new features and product updates."
+      },
+      {
+        "trend": "#Oscars2024",
+        "summary": "Predictions and discussions on nominees for the 2024 Oscars, especially surrounding representation and diversity in film."
+      }
+    ]
+  }
+}
